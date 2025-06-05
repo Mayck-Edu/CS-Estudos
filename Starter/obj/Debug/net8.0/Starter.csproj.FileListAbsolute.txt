@@ -1,0 +1,15 @@
+D:\Mayck\MAYCK\testes\c#\CS-Estudos\starter\bin\Debug\net8.0\Starter.exe
+D:\Mayck\MAYCK\testes\c#\CS-Estudos\starter\bin\Debug\net8.0\Starter.deps.json
+D:\Mayck\MAYCK\testes\c#\CS-Estudos\starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+D:\Mayck\MAYCK\testes\c#\CS-Estudos\starter\bin\Debug\net8.0\Starter.dll
+D:\Mayck\MAYCK\testes\c#\CS-Estudos\starter\bin\Debug\net8.0\Starter.pdb
+D:\Mayck\MAYCK\testes\c#\CS-Estudos\starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mayck\MAYCK\testes\c#\CS-Estudos\starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+D:\Mayck\MAYCK\testes\c#\CS-Estudos\starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+D:\Mayck\MAYCK\testes\c#\CS-Estudos\starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+D:\Mayck\MAYCK\testes\c#\CS-Estudos\starter\obj\Debug\net8.0\Starter.sourcelink.json
+D:\Mayck\MAYCK\testes\c#\CS-Estudos\starter\obj\Debug\net8.0\Starter.dll
+D:\Mayck\MAYCK\testes\c#\CS-Estudos\starter\obj\Debug\net8.0\refint\Starter.dll
+D:\Mayck\MAYCK\testes\c#\CS-Estudos\starter\obj\Debug\net8.0\Starter.pdb
+D:\Mayck\MAYCK\testes\c#\CS-Estudos\starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+D:\Mayck\MAYCK\testes\c#\CS-Estudos\starter\obj\Debug\net8.0\ref\Starter.dll
