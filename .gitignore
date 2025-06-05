@@ -1,6 +1,10 @@
 # Build results
-Starter/
-bin/
+bin/**
+obj/
+.bin/**
+.obj/
+
+
 # User-specific files
 *.user
 *.suo
