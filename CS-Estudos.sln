@@ -2,7 +2,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS-Estudos", "CS-Estudos.csproj", "{C2FBD9F7-0259-0B84-1EA9-145ECB3901DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final", "Final\Final.csproj", "{C34BB293-67EC-7493-0370-E758CDE387C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starter", "Starter\Starter.csproj", "{F9DA1E0A-416A-2D77-C472-D0786DC51259}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,15 +12,19 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C2FBD9F7-0259-0B84-1EA9-145ECB3901DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C2FBD9F7-0259-0B84-1EA9-145ECB3901DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C2FBD9F7-0259-0B84-1EA9-145ECB3901DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C2FBD9F7-0259-0B84-1EA9-145ECB3901DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C34BB293-67EC-7493-0370-E758CDE387C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C34BB293-67EC-7493-0370-E758CDE387C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C34BB293-67EC-7493-0370-E758CDE387C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C34BB293-67EC-7493-0370-E758CDE387C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9DA1E0A-416A-2D77-C472-D0786DC51259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9DA1E0A-416A-2D77-C472-D0786DC51259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9DA1E0A-416A-2D77-C472-D0786DC51259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9DA1E0A-416A-2D77-C472-D0786DC51259}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {32B03F73-277A-424D-B069-043916B9CCC6}
+		SolutionGuid = {F9E783A3-343F-4AF5-A47E-397902A40AD7}
 	EndGlobalSection
 EndGlobal
