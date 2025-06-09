@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mayck\\MAYCK\\testes\\c#\\CS-Estudos\\p\\p.csproj": {}
+    "D:\\Mayck\\MAYCK\\testes\\c#\\CS-Estudos\\CS-Estudos.csproj": {}
   },
   "projects": {
-    "D:\\Mayck\\MAYCK\\testes\\c#\\CS-Estudos\\p\\p.csproj": {
+    "D:\\Mayck\\MAYCK\\testes\\c#\\CS-Estudos\\CS-Estudos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mayck\\MAYCK\\testes\\c#\\CS-Estudos\\p\\p.csproj",
-        "projectName": "p",
-        "projectPath": "D:\\Mayck\\MAYCK\\testes\\c#\\CS-Estudos\\p\\p.csproj",
+        "projectUniqueName": "D:\\Mayck\\MAYCK\\testes\\c#\\CS-Estudos\\CS-Estudos.csproj",
+        "projectName": "CS-Estudos",
+        "projectPath": "D:\\Mayck\\MAYCK\\testes\\c#\\CS-Estudos\\CS-Estudos.csproj",
         "packagesPath": "C:\\Users\\gd\\.nuget\\packages\\",
-        "outputPath": "D:\\Mayck\\MAYCK\\testes\\c#\\CS-Estudos\\p\\obj\\",
+        "outputPath": "D:\\Mayck\\MAYCK\\testes\\c#\\CS-Estudos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
