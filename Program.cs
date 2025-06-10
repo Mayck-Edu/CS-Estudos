@@ -23,8 +23,7 @@ int operacao()
         case 3:
             return num1 * num2;
         case 4:
-          
-                return num1 / num2;
+            return num1 / num2;
         default:
             throw new InvalidOperationException("Ops!!");
     }
