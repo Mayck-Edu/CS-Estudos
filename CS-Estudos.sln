@@ -19,6 +19,10 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< HEAD
 		SolutionGuid = {917A4337-009F-4B67-9078-BB8A4430C319}
+=======
+		SolutionGuid = {B6F17DE1-6E60-4D81-9940-FE716DF3D0AC}
+>>>>>>> 89e86a8 (adiciona arquivos de projeto e configurações iniciais do .gitignore)
 	EndGlobalSection
 EndGlobal
