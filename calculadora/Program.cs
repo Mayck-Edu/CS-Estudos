@@ -49,3 +49,7 @@ catch (Exception ex)
 {
     Console.WriteLine("Ocorreu um erro inesperado: " + ex.Message);
 }
+finally
+{
+    operacao();
+}
