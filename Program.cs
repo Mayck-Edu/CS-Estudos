@@ -2,8 +2,7 @@
 int num1;
 int num2;
 
-// operacao();
-Console.WriteLine("Resultado: " + operacao());
+
 int operacao()
 {
     Console.WriteLine("Digite o primeiro número:");
@@ -24,11 +23,30 @@ int operacao()
         case 3:
             return num1 * num2;
         case 4:
-            if (num2 != 0)
+          
                 return num1 / num2;
-            else
-                throw new DivideByZeroException("Divisão por zero não é permitida.");
         default:
-            throw new InvalidOperationException("Operação inválida.");
+            throw new InvalidOperationException("Ops!!");
     }
+}
+
+try
+{
+    Console.WriteLine("O resultado da operação é: " + operacao());
+}
+catch (DivideByZeroException ex)
+{
+    Console.WriteLine("Não é possível dividir por zero. " + ex.Message);
+}
+catch (InvalidOperationException ex)
+{
+    Console.WriteLine("Essa operação não é válida: " + ex.Message);
+}
+catch (FormatException)
+{
+    Console.WriteLine("Entrada inválida. Por favor, insira números inteiros.");
+}
+catch (Exception ex)
+{
+    Console.WriteLine("Ocorreu um erro inesperado: " + ex.Message);
 }
